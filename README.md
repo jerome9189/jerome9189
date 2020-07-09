@@ -3,7 +3,6 @@
 <!--
 **jerome9189/jerome9189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working at Pinterest as a SWE intern
 - 🌱 I’m currently learning React.js (again)
